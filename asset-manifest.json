@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webmd-card-catalog/static/css/main.a954079b.chunk.css",
+    "main.js": "/webmd-card-catalog/static/js/main.16e694dc.chunk.js",
+    "main.js.map": "/webmd-card-catalog/static/js/main.16e694dc.chunk.js.map",
+    "runtime-main.js": "/webmd-card-catalog/static/js/runtime-main.723acdaf.js",
+    "runtime-main.js.map": "/webmd-card-catalog/static/js/runtime-main.723acdaf.js.map",
+    "static/js/2.16535a8e.chunk.js": "/webmd-card-catalog/static/js/2.16535a8e.chunk.js",
+    "static/js/2.16535a8e.chunk.js.map": "/webmd-card-catalog/static/js/2.16535a8e.chunk.js.map",
+    "index.html": "/webmd-card-catalog/index.html",
+    "precache-manifest.e36c6012e617fe864ed95ac7653c0f1b.js": "/webmd-card-catalog/precache-manifest.e36c6012e617fe864ed95ac7653c0f1b.js",
+    "service-worker.js": "/webmd-card-catalog/service-worker.js",
+    "static/css/main.a954079b.chunk.css.map": "/webmd-card-catalog/static/css/main.a954079b.chunk.css.map",
+    "static/js/2.16535a8e.chunk.js.LICENSE.txt": "/webmd-card-catalog/static/js/2.16535a8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.723acdaf.js",
+    "static/js/2.16535a8e.chunk.js",
+    "static/css/main.a954079b.chunk.css",
+    "static/js/main.16e694dc.chunk.js"
+  ]
+}
