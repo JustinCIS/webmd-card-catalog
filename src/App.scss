@@ -1,0 +1,71 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+.webmd-label {
+    font: 500 50px/22px Rubik;
+    margin: 20px 0 50px 0;
+    letter-spacing: 0px;
+    color: #171F24;
+    opacity: 1;
+  }
+
+.webmd-card {
+    border: none;
+    width: 368px;
+    max-width: 368px;
+    min-width: 368px;
+    margin-right: 0px !important;
+}
+
+.webmd-card-deck {
+    flex-flow: row;
+}
+
+.webmd-card-body {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 10px #0000001A;
+    border: 3px solid #B9DDFF;
+    border-radius: 32px;
+    opacity: 1;
+}
+
+.webmd-button {
+    font: 500 24px/19px Rubik;
+    color: #3AB3FF;
+    margin: 0 0 15px 0;
+}
+
+.webmd-button:hover {
+    color: #1f73ce;
+}
+
+.webmd-progress {
+    height: 8px;
+    width: 117px;
+}
+
+.webmd-stats {
+    font: 500 18px/22px Proxima Nova;
+    text-align: right;
+    color: #778087;
+}
+
+.webmd-logo-label {
+    font: 500 32px/38px Rubik;
+    margin: 15px 0 50px -76px;
+}
+
+.webmd-navbar {
+    font: 500 32px/38px Rubik;
+    color: #fff;
+    justify-content: center !important;
+    padding: 2.5rem 1rem;
+    background-color: #005B81;
+}
+
+.webmd-row {
+    margin: 0 8px 0 0;
+}
+
+.webmd-progress-bar {
+    width: 75%;
+}

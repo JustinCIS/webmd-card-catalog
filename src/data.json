@@ -1,0 +1,60 @@
+{
+    "Computers": [
+      {
+        "id": 1,
+        "label": "CPU: Central Processing Unit",
+        "description": "The CPU (Central Processing Unit) is the part of a computer system that…",
+        "stars": 1540
+      },
+      {
+        "id": 2,
+        "label": "GPU: Graphics Processing Unit",
+        "description": "A graphics processing unit (GPU) is a specialized electronic circuit…",
+        "stars": 485
+      },
+      {
+        "id": 3,
+        "label": "Hard Disk Drive",
+        "description": "A hybrid hard drive (HHD), sometimes known as a solid-state hybrid…",
+        "stars": 291
+      },
+      {
+        "id": 4,
+        "label": "Motherboard and Main Memory",
+        "description": "Motherboard: Definition. A motherboard is one of the…",
+        "stars": 102
+      }
+    ],
+    "Movies": [
+      {
+        "id": 1,
+        "label": "Lord of the Rings: Return of the King",
+        "description": "The Lord of the Rings: The Return of the King is a 2003 epic fantasy…",
+        "stars": 3494
+      },
+      {
+        "id": 2,
+        "label": "Close Encounters of the Third Kind",
+        "description": "Close Encounters of the Third Kind is a 1977 American science fiction film…",
+        "stars": 2843
+      },
+      {
+        "id": 3,
+        "label": "Guardians of the Galaxy: Volume 2",
+        "description": "Guardians of the Galaxy Vol. 2 is a 2017 American superhero film…",
+        "stars": 1540
+      },
+      {
+        "id": 4,
+        "label": "The man who knew too much",
+        "description": "The Man Who Knew Too Much is a 1956 American suspense thriller…",
+        "stars": 494
+      },
+      {
+        "id": 5,
+        "label": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The Fellowship of the Ring was released on 19 December 2001…",
+        "stars": 202
+      }
+    ]
+  }
